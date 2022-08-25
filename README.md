@@ -1,1 +1,1 @@
-# react-snippets
+# React Snippets
